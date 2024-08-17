@@ -1,4 +1,7 @@
 on:
+  #Manual push
+  workflow_dispatch:
+  #Automated 
   push:
     paths:
       - 'input/**'
