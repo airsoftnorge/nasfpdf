@@ -25,9 +25,9 @@ jobs:
         with:
           name: input
           path: pdfs
-  upload:
-    name: Commit changes
-    steps:
+
+
+
       - uses: stefanzweifel/git-auto-commit-action@v4 
         with:
           commit_message: Automated Change
