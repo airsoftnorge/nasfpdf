@@ -101,27 +101,25 @@ Enhver person som stiller seg støttende til forbundets formål og fyller de gen
 Medlemsvilkår:
 
 * Må være fylt 18 - atten - år
+  
 eller
+
 * være fylt 16 - seksten - år, og ha tillatelse fra foreldre eller foresatte/verge eller
 * være fylt 14 - fjorten - år og ha tillatelse fra foreldre eller foresatte/verge, OG spille sammen med en foreldre eller foresatte/verge.
 
 Klubbene velger selv hvilke aldersgrenser de vil benytte, og kan fastsettes av spillleder eller generelt av klubbens styre.
-Alle medlemmer skal fylle ut og sende inn innmeldingsskjema. Klubbleder plikter å se at dette skjemaet blir korrekt utfylt, signeres av medlem og klubbleder og registreres i gjeldende
-medlemsregister (Zubarus per Nov. 22.). Er medlemmet under 18 år skal det også fylles ut skjema om verge, som skal signeres av medlemmets foresatte. Et medlem er ikke å anse som
-et fullverdig medlem før betaling er registrert. Betaling skjer gjennom faktura. Medlemmet og klubbleder har i fellesskap ansvar for å følge opp at denne fakturaen blir betalt.
+Alle medlemmer skal fylle ut og sende inn innmeldingsskjema. Klubbleder plikter å se at dette skjemaet blir korrekt utfylt, signeres av medlem og klubbleder og registreres i gjeldende medlemsregister (Zubarus per Nov. 22.). Er medlemmet under 18 år skal det også fylles ut skjema om verge, som skal signeres av medlemmets foresatte. Et medlem er ikke å anse som et fullverdig medlem før betaling er registrert. Betaling skjer gjennom faktura. Medlemmet og klubbleder har i fellesskap ansvar for å følge opp at denne fakturaen blir betalt.
 Spillere som ikke er betalende medlemmer, kan ikke delta på arrangementer i forbundets regi. En klubb kan velge å tillate spillere som ikke er betalende medlemmer på sine egne spill, klubben står fritt til å innkreve en gjesteavgift for spillere som ikke er innmeldt i forbundet.
 
-Medlemskap gjelder til personen melder seg skriftlig ut av forbundet, eller
-ved strykning. Medlem har rett til:
+Medlemskap gjelder til personen melder seg skriftlig ut av forbundet, eller ved strykning. 
 
+Medlem har rett til:
 * Gjennom demokratiske avgjørelser å delta i forbundets ledelse og bestemme
 dets form og virksomhet.
 * Å kunne delta på arrangementer i forbundets regi, såfremt det er praktisk mulig.
-* Å få erstattet tannskader som har oppstått på spill i regi av hvilken som helst klubb
-tilknyttet forbundet, der forbundets forskrifter er benyttet. Erstatningens øvre grense er
-satt til kr ti tusen – 10.000,-.
-Et medlem har plikt til:
+* Å få erstattet tannskader som har oppstått på spill i regi av hvilken som helst klubb tilknyttet forbundet, der forbundets forskrifter er benyttet. Erstatningens øvre grense er satt til kr ti tusen – 10.000,-.
 
+Et medlem har plikt til:
 * å ikke bruke airsoft-replikaer i forbindelse med ulovlige handlinger.
 * å opptre forsvarlig med airsoft-replikaer, så vel på arrangementer som ellers.
 * å aktivt motvirke, så langt det er praktisk mulig, misbruk av airsoft-replikaer av andre. Både andre medlemmer og utenforstående, gjennom informasjon og holdningspåvirkning.
@@ -133,6 +131,7 @@ Klubber kan sette egen aldersgrense for sine medlemmer, dog ikke under 14 - fjor
 
 
 ## $6. TAP AV MEDLEMSKAP
+
 Tap av medlemskap skjer ved strykning dersom medlemsavgift ikke er betalt innen den frist som er satt. Strykning foretas av forbundets styre. Ved ny innmelding må nytt innmeldingsskjema sendes inn. En klubb vil bli strøket i de tilfeller hvor alle medlemmer er strøket etter dette ledd.
 
 Utmelding av medlem i en klubb utføres av klubbleder gjennom gjeldende medlemssystem.
@@ -146,13 +145,12 @@ En ekskludering fra forbundet kan være gitt med en tidsfrist, eller den kan væ
 Det medlem som blir utvist, og dennes klubbleder, skal informeres om vedtaket så fort det lar seg gjøre.
 
 ## $7. GENERALFORSAMLING
+
 Generalforsamlingen er Norges Airsoftforbunds høyeste myndighet.
 
 Generalforsamling holdes 1 - en - gang pr. år, senest innen utgangen av mars måned, og kalles inn med minst 2 - to - måneders varsel.
 
-Nye og alternative saksforslag skal være innsendt til styret senest 1 - en - måned før generalforsamlingen. Dagsorden og alle saksforslag skal sendes til medlemmene
-
-senest 14 - fjorten - dager før møtet. Andre saker enn de som står på sakslisten kan ikke tas opp til avstemming, men andre saker kan diskuteres.
+Nye og alternative saksforslag skal være innsendt til styret senest 1 - en - måned før generalforsamlingen. Dagsorden og alle saksforslag skal sendes til medlemmene senest 14 - fjorten - dager før møtet. Andre saker enn de som står på sakslisten kan ikke tas opp til avstemming, men andre saker kan diskuteres.
 
 Generalforsamlingen skal godkjenne innkallingen, velge møteledelse, bestående av møteleder og referent, behandle årsmeldingen og årsregnskapet, samt behandle forbundets program og budsjett for inneværende/etterfølgende år så langt dette foreligger.
 
@@ -180,6 +178,7 @@ Disse kan ikke samtidig inneha verv i Styret. Forslag om kandidater til Klubbled
 Vedtak på generalforsamling fattes med alminnelig flertall, dersom intet annet er nevnt i vedtektene. Forslag kan også vedtas mot at det oversendes styret for redigering. Styret har 1 - en - måned på seg til å redigere forslaget.
 
 ## $8. STYRET
+
 Styrets hovedoppgave er å ivareta Norges Airsoftforbund sin rolle etter formålsparagrafen. Styret forplikter seg til å følge vedtak og retningslinjer fattet av generalforsamlingen og å operere innenfor rammene satt av dette.
 Styret forbereder og sørger for at neste generalforsamling finner sted. Styret forplikter seg til å inneha sitt verv i perioden mellom to generalforsamlinger. Ved frafall i denne perioden supplerer styret seg selv ved at en av vararepresentantene trer inn i styret som ordinært medlem.
 
@@ -196,22 +195,18 @@ Styremedlemmer er pliktig å tilstrebe å delta på generalforsamlingen.
 Styremedlemmer mottar refusjon av reisekostnader begrenset til maks 1000 – tusen – kroner per medlem.
 
 ## $9. ØKONOMI
-Regnskap føres av kassereren i styret. Regnskapet må være tilgjengelig for alle
-medlemmer som etterspør det på 4 - fire - ukers varsel. Kasserer skal sette seg inn i
-gjeldende lover og forskrifter som omfatter korrekt føring av regnskap og har ansvaret
-for at forbundet ikke overskrider de grenser som er satt for revisorplikt. Regnskapet skal
-følge god Norsk regnskapsskikk.
-Verken styret eller noen annen kan opprette lån eller kreditt på forbundets vegne hvis
-dette ikke er spesifikt godkjent av generalforsamlingen.
-Styret fastsetter fordeling av medlemsavgiften, fordelt på en forbundskonto og en
-tannerstatningskonto. Erstatningskontoen har et tak på 150.000,- og dersom denne
-summen nås, går resten av medlemsavgiften uavkortet til forbundets konto.
-Bruk av penger fra forbundets konto skal være vedtatt i styret. Utbetaling av erstatning
-for tannskader på spill vedtas i styret.
+
+Regnskap føres av kassereren i styret. Regnskapet må være tilgjengelig for alle medlemmer som etterspør det på 4 - fire - ukers varsel. Kasserer skal sette seg inn i gjeldende lover og forskrifter som omfatter korrekt føring av regnskap og har ansvaret for at forbundet ikke overskrider de grenser som er satt for revisorplikt. Regnskapet skal følge god Norsk regnskapsskikk.
+
+Verken styret eller noen annen kan opprette lån eller kreditt på forbundets vegne hvis dette ikke er spesifikt godkjent av generalforsamlingen.
+
+Styret fastsetter fordeling av medlemsavgiften, fordelt på en forbundskonto og en tannerstatningskonto. Erstatningskontoen har et tak på 150.000,- og dersom denne summen nås, går resten av medlemsavgiften uavkortet til forbundets konto.
+
+Bruk av penger fra forbundets konto skal være vedtatt i styret. Utbetaling av erstatning for tannskader på spill vedtas i styret.
 
 ## $10. REGLER
-Bruk og oppbevaring av airsoft-replika, samt regler for oppgraderinger er
-regulert gjennom følgende forskrifter:
+
+Bruk og oppbevaring av airsoft-replika, samt regler for oppgraderinger er regulert gjennom følgende forskrifter:
 
 * Forskrift om sikkerhet
 * Forskrift om replika kl. A
@@ -219,47 +214,27 @@ regulert gjennom følgende forskrifter:
 * Forskrift om replika kl. J
 
 * Forskrift om effekter
-Disse forskrifter er å regne som en del av forbundets vedtekter. Endring av disse
-forskrifter er unntatt fra retningslinjene i 
-## $12 i disse vedtektene. I hovedsak er det
-Klubblederrådet som har endringsrettighet på forskriftene, men det kan også gjøres
-på Generalforsamlingen. Et medlem av styret eller en klubbleder kan gjennom
-Klubblederrådet foreslå nye forskrifter. Øvrige medlemmer kan melde inn sine
-forslag til Generalforsamlingen som omtalt i 
-## $7, eller gjennom sin klubbleder til
-Klubblederrådet. Endring av forskriftene kan skje med 2/3 flertall på
-Generalforsamlingen eller 3/4 flertall i Klubblederrådet for det vedtatte forslag.
+Disse forskrifter er å regne som en del av forbundets vedtekter. Endring av disse forskrifter er unntatt fra retningslinjene i $12 i disse vedtektene. I hovedsak er det Klubblederrådet som har endringsrettighet på forskriftene, men det kan også gjøres på Generalforsamlingen. Et medlem av styret eller en klubbleder kan gjennom Klubblederrådet foreslå nye forskrifter. Øvrige medlemmer kan melde inn sine forslag til Generalforsamlingen som omtalt i $7, eller gjennom sin klubbleder til Klubblederrådet. Endring av forskriftene kan skje med 2/3 flertall på Generalforsamlingen eller 3/4 flertall i Klubblederrådet for det vedtatte forslag.
+
 Klubblederrådet behandler slike forespørsler løpende.
-Dersom det stemmes over flere enn to alternativer på en generalforsamling kreves
-det 2/3 flertall for at det valgte alternativet skal bli vedtatt. Dersom ingen alternativer
-får 2/3 flertall gjøres det ingen endring. Den samme flertallsregel gjelder behandling
-i Klubblederrådet.
+
+Dersom det stemmes over flere enn to alternativer på en generalforsamling kreves det 2/3 flertall for at det valgte alternativet skal bli vedtatt. Dersom ingen alternativer får 2/3 flertall gjøres det ingen endring. Den samme flertallsregel gjelder behandling i Klubblederrådet.
 
 ## $11. OPPLØSNING
-Oppløsning av Norges Airsoftforbund kan kun vedtas av generalforsamlingen dersom
-forlag om dette er innsendt innen gjeldende frist. Vedtak om oppløsning krever 3/4
-flertall blant de stemmeberettigede. Det forutsetter også at mindretallet ikke har et
-ønske om å videreføre driften på basis av forbundet sine vedtekter. Det sittende styret
-er pliktige å avvikle forbundet i henhold til gjeldende lover og forskrifter. Dette
-gjelder også korrekt avvikling i forhold til Enhetsregisteret i Brønnøysund. Ved en
-oppløsning skal den oppløsende generalforsamlingen bestemme hvordan forbundets
-midler skal benyttes. Vedtaket må være i samsvar med de generelle
-foreningsprinsipper.
+
+Oppløsning av Norges Airsoftforbund kan kun vedtas av generalforsamlingen dersom forlag om dette er innsendt innen gjeldende frist. Vedtak om oppløsning krever 3/4 flertall blant de stemmeberettigede. Det forutsetter også at mindretallet ikke har et ønske om å videreføre driften på basis av forbundet sine vedtekter. Det sittende styret er pliktige å avvikle forbundet i henhold til gjeldende lover og forskrifter. Dette gjelder også korrekt avvikling i forhold til Enhetsregisteret i Brønnøysund. Ved en oppløsning skal den oppløsende generalforsamlingen bestemme hvordan forbundets midler skal benyttes. Vedtaket må være i samsvar med de generelle foreningsprinsipper.
 
 ## $12. VEDTEKTSENDRINGER
-En vedtektsendring kan kun foretas på generalforsamlingen og krever 2/3 flertall blant de
-stemmeberettigede.
-Unntak gjelder 
-## $10 Regler som kan endres av Klubblederrådet ved 3/4 flertall.
-Dersom det stemmes over flere enn to alternativer kreves det 2/3 flertall for at det valgte
-alternativ skal bli gjeldende. Dersom ingen alternativer får 2/3 flertall gjøres ingen
-endring. Generalforsamlingen kan stemme frem enkeltendringer i vedtektene, som skal
-renskrives og godkjennes av både styret og klubblederrådet.
-I ekstraordinære tilfeller hvor Norsk lovgivning blir endret slik at forbundets vedtekter
-strider imot disse, kan styret gjøre endringer av vedtektene så lenge dette godkjennes av
-ett enstemmig styre og ett enstemmig klubblederråd. Disse endringene vil da være
-midlertidige frem til neste generalforsamling hvor forslaget til endring må stemmes inn
-av forbundets medlemmer.
+
+En vedtektsendring kan kun foretas på generalforsamlingen og krever 2/3 flertall blant de stemmeberettigede.
+
+Unntak gjelder $10 Regler som kan endres av Klubblederrådet ved 3/4 flertall.
+
+Dersom det stemmes over flere enn to alternativer kreves det 2/3 flertall for at det valgte alternativ skal bli gjeldende. Dersom ingen alternativer får 2/3 flertall gjøres ingen endring. Generalforsamlingen kan stemme frem enkeltendringer i vedtektene, som skal renskrives og godkjennes av både styret og klubblederrådet.
+
+I ekstraordinære tilfeller hvor Norsk lovgivning blir endret slik at forbundets vedtekter strider imot disse, kan styret gjøre endringer av vedtektene så lenge dette godkjennes av ett enstemmig styre og ett enstemmig klubblederråd. Disse endringene vil da være midlertidige frem til neste generalforsamling hvor forslaget til endring må stemmes inn av forbundets medlemmer.
+
+
 Enstemmig vedtatt, Generalforsamling 28.12.2002, Arendal
 Sist endret: 15.04.2023, Oslo. Endringer vedtatt 18.03.23,
 Stavanger
