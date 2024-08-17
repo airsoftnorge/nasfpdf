@@ -21,11 +21,22 @@ jobs:
           input_dir: input
           output_dir: pdfs
           build_html: false
-          
 
-      - uses: Roang-zero1/github-create-release-action@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+#      - name: Create tag
+      - uses: actions/github-script@v5
+        with:
+          script: |
+            github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'refs/tags/<tagname>',
+              sha: context.sha
+            })          
+
+#      - uses: Roang-zero1/github-create-release-action@v2
+ #       env:
+ #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
 
       - uses: Roang-zero1/github-upload-release-artifacts-action@v2
