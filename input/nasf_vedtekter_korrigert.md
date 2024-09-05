@@ -1,11 +1,11 @@
 # Forbundets vedtekter
 
-## $1. NAVN
+## 1. NAVN
 
 Forbundets navn er Norges Airsoftforbund (forkortet NASF). Internasjonalt brukes navnet Norwegian Airsoft Association (forkortet NAA).
 Forbundet ble opprettet 05.09.1999. Offisielt stiftelsesmøte ble avholdt 28.12.2002, i forbindelse med registrering av forbundet i Enhetsregisteret i Brønnøysund.
 
-## $2. FORMÅL
+## 2. FORMÅL
 
 Norges Airsoftforbund skal søke å fremme saker som har som formål å øke anseelsen, troverdigheten og utbredelsen av sporten airsoft i Norge. Dette skal gjøres gjennom:
 
@@ -27,7 +27,7 @@ av egne medlemmer og andre, gjennom informasjon og holdningspåvirkning.
 * å utvikle en felles plattform for alle spillere i Norge med felles regler å forholde
 seg til.
 
-## $3. FORM
+## 3. FORM
 
 Norges Airsoftforbund er et ideelt forbund for airsoftspillere i Norge.
 
@@ -44,7 +44,7 @@ Generalforsamlingen er forbundets øverste myndighet og avholdes ordinært en ga
 Alle betalende medlemmer har stemmerett på generalforsamlingen, et ekskludert medlem har derimot ikke stemmerett.
 Ekstraordinære generalforsamlinger har samme myndighet som ordinære generalforsamlinger, forutsatt at over 6/10 (seksti prosent) av klubbledere eller 5/10 (femtiprosent) av medlemmene stemmer. Ekstraordinære generalforsamlinger kan innkalles avalle medlemmer. Den som kaller inn til forsamlingen har ansvaret for saksliste og innkallinger i henhold til disse vedtekter. Et ekskludert medlem kan ikke kalle inn til ekstraordinær generalforsamling.
 
-## $3.1 Klubblederrådet
+## 3.1 Klubblederrådet
 
 Klubblederrådet skal tilstrebes å bestå av 5 – fem – innvalgte klubbledere som ikke er en del av forbundets styre. Disse velges inn hvert år på generalforsamlingen.
 
@@ -60,7 +60,7 @@ klubblederrådet. Jmf.:
 * Behandling av mistillitsforslag. Krever 2/3 flertall i klubblederrådet. Jmf.: 
   * $7, avsnitt 6.
 
-## $4. TILSLUTTEDE KLUBBER
+## 4. TILSLUTTEDE KLUBBER
 
 Forbundet tar som hovedregel kun opp klubber.
 
@@ -85,7 +85,7 @@ En klubb og alle dets medlemmer kan bli utvist fra forbundet dersom klubben som 
 Bestemmelsen tas med 3/4 flertall i klubblederrådet. Hvis bestemmelsen påklages av den utviste klubb skal klubbleder, eller annet medlem som klubben gir myndighet til dette, ha rett til å tale sin sak på neste generalforsamling, og vil være midlertidig ekskludert frem til denne generalforsamling. Klage skal sendes skriftlig til forbundets styreleder innen 2 -
 to - måneder. Saken avgjøres i så tilfelle med 3/4 flertall blant generalforsamlingens stemmeberettigede, og kan ikke påklages.
 
-## $4.1. Individuelt medlemskap
+## 4.1. Individuelt medlemskap
 
 Forbundet kan ta opp individuelle medlemmer i spesielle tilfeller. Dette forutsetter at medlemmet ikke har en NASF tilknyttet klubb innenfor rimelig avstand fra bosted.
 
@@ -94,7 +94,7 @@ Dette kan søkes gjennom en egen søknad spilleren mottar ved å kontakte styret
 Søknaden skal behandles på første styremøte etter søknaden er mottatt og avgjøres med flertall i styret. Medlemmer med individuelt medlemskap er pliktig å gjøre seg kjent med hvilke medlemsfordeler som kun gjelder på spill arrangert av NASF-klubber og er kjent med at disse fordelene ikke gjelder på arrangementer utenfor forbundets
 paraply.
 
-## $5. MEDLEMSKAP, KONTINENT, MEDLEMSVILKÅR
+## 5. MEDLEMSKAP, KONTINENT, MEDLEMSVILKÅR
 
 Enhver person som stiller seg støttende til forbundets formål og fyller de generelle medlemsvilkår, kan bli medlem i forbundet. Et hvert medlem skal betale medlemskontingent på kroner 150,- per år til forbundet. Medlemskontingenten forfaller i januar måned, og betales for inneværende år.
 
@@ -128,7 +128,7 @@ Klubber kan ha egne avgifter på medlemskap på toppen av forbundets innmeldings
 Klubber kan sette egen høyere aldersgrense for sine medlemmer enn forbundets ved ønske. 
 
 
-## $6. TAP AV MEDLEMSKAP
+## 6. TAP AV MEDLEMSKAP
 
 Tap av medlemskap skjer ved strykning dersom medlemsavgift ikke er betalt innen den frist som er satt. Strykning foretas av forbundets styre. Ved ny innmelding må nytt innmeldingsskjema sendes inn. En klubb vil bli strøket i de tilfeller hvor alle medlemmer er strøket etter dette ledd.
 
@@ -142,7 +142,7 @@ En ekskludering fra forbundet kan være gitt med en tidsfrist, eller den kan væ
 
 Det medlem som blir utvist, og dennes klubbleder, skal informeres om vedtaket så fort det lar seg gjøre.
 
-## $7. GENERALFORSAMLING
+## 7. GENERALFORSAMLING
 
 Generalforsamlingen er Norges Airsoftforbunds høyeste myndighet.
 
@@ -175,7 +175,7 @@ Disse kan ikke samtidig inneha verv i Styret. Forslag om kandidater til Klubbled
 
 Vedtak på generalforsamling fattes med alminnelig flertall, dersom intet annet er nevnt i vedtektene. Forslag kan også vedtas mot at det oversendes styret for redigering. Styret har 1 - en - måned på seg til å redigere forslaget.
 
-## $8. STYRET
+## 8. STYRET
 
 Styrets hovedoppgave er å ivareta Norges Airsoftforbund sin rolle etter formålsparagrafen. Styret forplikter seg til å følge vedtak og retningslinjer fattet av generalforsamlingen og å operere innenfor rammene satt av dette.
 Styret forbereder og sørger for at neste generalforsamling finner sted. Styret forplikter seg til å inneha sitt verv i perioden mellom to generalforsamlinger. Ved frafall i denne perioden supplerer styret seg selv ved at en av vararepresentantene trer inn i styret som ordinært medlem.
@@ -192,7 +192,7 @@ Styremedlemmer er pliktig å tilstrebe å delta på generalforsamlingen.
 
 Styremedlemmer mottar refusjon av reisekostnader begrenset til maks 1000 – tusen – kroner per medlem.
 
-## $9. ØKONOMI
+## 9. ØKONOMI
 
 Regnskap føres av kassereren i styret. Regnskapet må være tilgjengelig for alle medlemmer som etterspør det på 4 - fire - ukers varsel. Kasserer skal sette seg inn i gjeldende lover og forskrifter som omfatter korrekt føring av regnskap og har ansvaret for at forbundet ikke overskrider de grenser som er satt for revisorplikt. Regnskapet skal følge god Norsk regnskapsskikk.
 
@@ -202,7 +202,7 @@ Styret fastsetter fordeling av medlemsavgiften, fordelt på en forbundskonto og 
 
 Bruk av penger fra forbundets konto skal være vedtatt i styret. Utbetaling av erstatning for tannskader på spill vedtas i styret.
 
-## $10. REGLER
+## 10. REGLER
 
 Bruk og oppbevaring av airsoft-replika, samt regler for oppgraderinger er regulert gjennom følgende forskrifter:
 
@@ -217,11 +217,11 @@ Klubblederrådet behandler slike forespørsler løpende.
 
 Dersom det stemmes over flere enn to alternativer på en generalforsamling kreves det 2/3 flertall for at det valgte alternativet skal bli vedtatt. Dersom ingen alternativer får 2/3 flertall gjøres det ingen endring. Den samme flertallsregel gjelder behandling i Klubblederrådet.
 
-## $11. OPPLØSNING
+## 11. OPPLØSNING
 
 Oppløsning av Norges Airsoftforbund kan kun vedtas av generalforsamlingen dersom forlag om dette er innsendt innen gjeldende frist. Vedtak om oppløsning krever 3/4 flertall blant de stemmeberettigede. Det forutsetter også at mindretallet ikke har et ønske om å videreføre driften på basis av forbundet sine vedtekter. Det sittende styret er pliktige å avvikle forbundet i henhold til gjeldende lover og forskrifter. Dette gjelder også korrekt avvikling i forhold til Enhetsregisteret i Brønnøysund. Ved en oppløsning skal den oppløsende generalforsamlingen bestemme hvordan forbundets midler skal benyttes. Vedtaket må være i samsvar med de generelle foreningsprinsipper.
 
-## $12. VEDTEKTSENDRINGER
+## 12. VEDTEKTSENDRINGER
 
 En vedtektsendring kan kun foretas på generalforsamlingen og krever 2/3 flertall blant de stemmeberettigede.
 
