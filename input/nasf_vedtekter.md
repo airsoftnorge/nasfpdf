@@ -60,7 +60,7 @@ klubblederrådet. Jmf.:
 * Behandling av mistillitsforslag. Krever 2/3 flertall i klubblederrådet. Jmf.: 
   * $7, avsnitt 6.
 
-## $4. TILSLUTTEDE KLUBBER
+## 4. TILSLUTTEDE KLUBBER
 
 Forbundet tar som hovedregel kun opp klubber.
 
